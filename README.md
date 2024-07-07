@@ -1,2 +1,2 @@
 # Amazon-Clone
-Making a Amazon Clone website
+Open Source Amazon Clone website using HTML and CSS
